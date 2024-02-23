@@ -1,3 +1,3 @@
 function register(login, password) {
-	return 'Account:' + ' ' + login + ' ' + '' + 'was created.';
+	return 'Account:' + ' ' + login + ' ' + '' + 'has been created.';
 }
